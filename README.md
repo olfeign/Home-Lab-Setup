@@ -11,10 +11,10 @@ This repository will document my journey of building my own SOC Analyst home lab
   - [Troubleshooting](Setup/Troubleshooting.md)  
 
 - **[Tools](Tools)** – The tools I install into my VM for cybersecurity-related tasks.  
-  - <img src="assets/wireshark.svg" alt="Wireshark" width="20"/> [Wireshark](Tools/Wireshark.md)  
+  - [Wireshark](Tools/Wireshark.md) <img src="assets/wireshark.svg" alt="Wireshark" width="20"/>  
   - [tcpdump](Tools/tcpdump.md)  
-  - <img src="assets/Logo-Suricata-vert-R.png" alt="Suricata" width="20"/> [Suricata](Tools/Suricata.md)  
-  - <img src="assets/elasticsearch.svg" alt="ElasticSearch" width="20"/> <img src="assets/logstash.svg" alt="Logstash" width="20"/> <img src="assets/kibana.svg" alt="Kibana" width="20"/> [ELK Stack](Tools/ELK-Stack.md)  
+  - [Suricata](Tools/Suricata.md) <img src="assets/Logo-Suricata-vert-R.png" alt="Suricata" width="20"/>  
+  - [ELK Stack](Tools/ELK-Stack.md) <img src="assets/elasticsearch.svg" alt="ElasticSearch" width="20"/><img src="assets/logstash.svg" alt="Logstash" width="20"/><img src="assets/kibana.svg" alt="Kibana" width="20"/>  
 
 - **[Findings](Findings)** – Any findings I get from network analysis, threat detection, and incident response.  
   - [Network Analysis](Findings/Network-Analysis.md)  
