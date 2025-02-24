@@ -6,7 +6,7 @@ This section outlines the specifications of the laptop used to build and run thi
 - **Model:** ASUS X515  
 - **Processor:** 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz  
 - **RAM:** 8 GB (7.7 GB usable)  
-- **Storage:** [Add storage details, e.g., SSD or HDD and capacity]  
+- **Storage:** 500GB SSD  
 - **Graphics:** Integrated Intel Iris Xe Graphics  
 - **Screen Resolution:** 1080p  
 
