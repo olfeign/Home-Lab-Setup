@@ -6,15 +6,15 @@ This repository will document my journey of building my own SOC Analyst home lab
 ## Sections:  
 
 - **[Setup](Setup)** – The configuration for VirtualBox and Parrot Security OS.  
-  - <img src="assets/virtualbox.svg" alt="VirtualBox" width="20"/> [VirtualBox Configuration](Setup/VirtualBox-Config.md)  
-  - <img src="assets/parrotsecurity.svg" alt="Parrot OS" width="20"/> [Parrot Security OS Installation](Setup/Parrot-OS-Install.md)  
+  - [VirtualBox Configuration](Setup/VirtualBox-Config.md)  
+  - [Parrot Security OS Installation](Setup/Parrot-OS-Install.md)  
   - [Troubleshooting](Setup/Troubleshooting.md)  
 
 - **[Tools](Tools)** – The tools I install into my VM for cybersecurity-related tasks.  
-  - [Wireshark](Tools/Wireshark.md) <img src="assets/wireshark.svg" alt="Wireshark" width="20"/>  
+  - [Wireshark](Tools/Wireshark.md)  
   - [tcpdump](Tools/tcpdump.md)  
-  - [Suricata](Tools/Suricata.md) <img src="assets/Logo-Suricata-vert-R.png" alt="Suricata" width="20"/>  
-  - [ELK Stack](Tools/ELK-Stack.md) <img src="assets/elasticsearch.svg" alt="ElasticSearch" width="20"/><img src="assets/logstash.svg" alt="Logstash" width="20"/><img src="assets/kibana.svg" alt="Kibana" width="20"/>  
+  - [Suricata](Tools/Suricata.md)  
+  - [ELK Stack](Tools/ELK-Stack.md)  
 
 - **[Findings](Findings)** – Any findings I get from network analysis, threat detection, and incident response.  
   - [Network Analysis](Findings/Network-Analysis.md)  
