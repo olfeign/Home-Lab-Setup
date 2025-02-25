@@ -29,11 +29,4 @@ and the OS is ready for use.
 
 Since this virtual machine won’t be as proactively used as my host OS, I did not need to stress over customization and left the OS relatively vanilla.
 
----
-
-### **Design Enhancements Made:**  
-- **Bold Text** for key terms (e.g., Parrot OS, home edition, commands).  
-- **Horizontal lines (`---`)** for better section separation.  
-- **Code blocks** for terminal commands using the proper syntax highlighting for bash.  
-- Consistent indentation and spacing for better readability.  
 
